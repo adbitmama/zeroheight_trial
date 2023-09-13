@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage</title>
+    <link rel="stylesheet" href="styles.css"> <!-- You can link to your CSS file here -->
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Menu Item 1</a></li>
+                <li><a href="#">Menu Item 2</a></li>
+                <li><a href="#">Menu Item 3</a></li>
+            </ul>
+        </nav>
+        <div class="icons">
+            <img src="icon1.png" alt="Icon 1">
+            <img src="icon2.png" alt="Icon 2">
+        </div>
+    </header>
+    <main>
+        <section class="content">
+            <img src="sample-image.jpg" alt="Sample Image">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor nec eros at efficitur.</p>
+        </section>
+    </main>
+</body>
+</html>
